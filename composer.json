@@ -1,0 +1,22 @@
+{
+  "name": "lesstif/faker-provider",
+  "description": "PHP fzaninotto/Faker provider ",
+  "homepage": "https://github.com/lesstif/faker-provider",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    { "name": "KwangSeob Jeong" }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "fzaninotto/faker": "^1.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lesstif\\FakerProvider\\": "src"
+    }
+  }
+}
