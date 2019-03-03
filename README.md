@@ -10,11 +10,24 @@ composer require lesstif/faker-restaurant
 
 or manual add
 
+local repository
+
 ```sh
 "repositories": [
     {
         "type": "path",
         "url": "./faker-provider"
+    },
+ ],   
+
+```
+
+remote repository
+```sh
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/lesstif/faker-provider"
     },
  ],   
 
