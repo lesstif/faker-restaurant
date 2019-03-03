@@ -2,7 +2,7 @@
   "name": "lesstif/faker-provider",
   "description": "PHP fzaninotto/Faker provider ",
   "homepage": "https://github.com/lesstif/faker-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "authors": [
     { "name": "KwangSeob Jeong" }

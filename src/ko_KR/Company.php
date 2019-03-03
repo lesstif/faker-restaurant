@@ -130,7 +130,7 @@ class Company extends \Faker\Provider\Company
      * A random Food Name.
      * @return string
      */
-    public function cramschoolName()
+    public function cramschoolStoreName()
     {
         return static::randomElement(static::$cramschoolNames);
     }
@@ -139,7 +139,7 @@ class Company extends \Faker\Provider\Company
      * A random Beverage Name.
      * @return string
      */
-    public function beautyName()
+    public function beautyStoreName()
     {
         return static::randomElement(static::$beautyNames);
     }
