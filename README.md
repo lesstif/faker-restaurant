@@ -18,7 +18,7 @@ local repository
         "type": "path",
         "url": "./faker-provider"
     },
- ],   
+ ]   
 
 ```
 
@@ -28,8 +28,8 @@ remote repository
     {
         "type": "vcs",
         "url": "https://github.com/lesstif/faker-provider"
-    },
- ],   
+    }
+ ] 
 
 ```
 
