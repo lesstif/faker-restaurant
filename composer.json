@@ -1,7 +1,7 @@
 {
-  "name": "lesstif/faker-provider",
+  "name": "lesstif/faker-restaurant",
   "description": "PHP fzaninotto/Faker provider ",
-  "homepage": "https://github.com/lesstif/faker-provider",
+  "homepage": "https://github.com/lesstif/faker-restaurant",
   "version": "1.0.2",
   "license": "MIT",
   "authors": [
