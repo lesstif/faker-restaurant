@@ -16,7 +16,7 @@ local repository
 "repositories": [
     {
         "type": "path",
-        "url": "./faker-provider"
+        "url": "./faker-restaurant"
     },
  ]   
 
@@ -27,7 +27,7 @@ remote repository
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/lesstif/faker-provider"
+        "url": "https://github.com/lesstif/faker-restaurant"
     }
  ] 
 
